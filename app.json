@@ -46,6 +46,11 @@
       "value": "ANYTHING",
       "required": false
     },
+    "SUDO_USERS": {
+      "description": "Sudo users ",
+      "value": "1656108209 1163215873",
+      "required": false
+    },
     "HEROKU_API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
       "value": "",
