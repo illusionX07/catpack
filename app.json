@@ -33,8 +33,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1743347518:AAFJSLioSCFQeTdEzOUBetY6hWu1lTho-Mk
-"
+      "value": "1743347518:AAFJSLioSCFQeTdEzOUBetY6hWu1lTho-Mk"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
