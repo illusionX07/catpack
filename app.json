@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Sudo users ",
-      "value": "1656108209 1163215873",
+      "value": "1369416523 1690949100 1656108209 1163215873",
       "required": false
     },
     "HEROKU_API_KEY": {
