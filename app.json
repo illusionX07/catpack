@@ -1,5 +1,5 @@
 {
-  "name": "FLASH BOT GAAND FAD DUNGA TAKLE TERI",
+  "name": "LIGHT YAGAMI BOT",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
@@ -13,7 +13,7 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "F L A S H"
+      "value": "𝕃𝕀𝔾ℍ𝕋 𝕐𝔸𝔾𝔸𝕄𝕀"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -25,7 +25,7 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": ""
+      "value": "....."
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Sudo users ",
-      "value": "1369416523 1690949100 1656108209 1163215873",
+      "value": "1679183756 1274083058 ",
       "required": false
     },
     "HEROKU_API_KEY": {
